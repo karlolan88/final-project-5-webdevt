@@ -4,6 +4,7 @@ import UserAccountManagement from "./components/UserAccountManagement";
 import AdminDashboard from "./components/AdminDashboard";
 import UserDashboard from "./components/UserDashboard";
 import TicketBooking from "./components/TicketBooking";
+import './App.css';
 
 const App = () => {
   // State management
